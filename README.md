@@ -1,7 +1,7 @@
 -  <h1 > 👋 Hi, I’m ali lotfi backend developer </h1>  
 - <h3> 📫 How to reach me alilotfidev.ir or alilotfi256@gmail.com </h3>
 <h4>
-
+<img src="https://media.licdn.com/dms/image/D5616AQH8lNfjPTMjZw/profile-displaybackgroundimage-shrink_350_1400/0/1701934903056?e=1707350400&v=beta&t=-dIffBFHCFci6gpa5UJg_qLfdqIPlhZFlm-9PCD9Zvs" alt="redis logo" width="1000" height="300"/>
 Experienced backend developer with a strong focus on building scalable and cloud-native applications using microservices architecture. My main programming language is Golang, but I also have a solid foundation in Python/Django and Node.js. Additionally, I'm familiar with frontend technologies such as React and React Native.
 
 Throughout my career, I've worked on various projects, from small web applications to large-scale distributed systems. I have a deep understanding of software design principles and I always strive to write clean, maintainable, and testable code.
